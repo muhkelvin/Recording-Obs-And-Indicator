@@ -2,10 +2,6 @@
 
 Program sederhana untuk menampilkan notifikasi status Zoom di layar desktop dengan menekan tombol keyboard.
 
-![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-
 ## ✨ Fitur
 
 - 🎯 Toggle status Zoom dengan menekan tombol **1**
@@ -137,12 +133,8 @@ Kontribusi selalu welcome! Jika Anda ingin berkontribusi:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👤 Author
 
-**Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
